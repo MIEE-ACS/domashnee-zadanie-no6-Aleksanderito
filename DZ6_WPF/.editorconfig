@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1061: "MainWindow" не содержит определения "typeFilter_SelectionChanged", и не удалось найти доступный метод расширения "typeFilter_SelectionChanged", принимающий тип "MainWindow" в качестве первого аргумента (возможно, пропущена директива using или ссылка на сборку).
+dotnet_diagnostic.CS1061.severity = none
